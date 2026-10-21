@@ -35,7 +35,17 @@
 </div>
 
 <br/>
+## 🐍 My Contributions
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khiebots-pixel/khiebots-pixel/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khiebots-pixel/khiebots-pixel/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/khiebots-pixel/khiebots-pixel/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
 <!-- ═══════════════════════ MY LINKS & PROJECTS ═══════════════════════ -->
 ## 🔗 My Links & Projects
 
